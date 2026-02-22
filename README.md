@@ -1,2 +1,2 @@
 # Git-Practice
-Repository to Practice git
+## Welcome to my Git & GitHub repository — a place to practice Git.
